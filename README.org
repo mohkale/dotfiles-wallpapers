@@ -1,0 +1,69 @@
+#+TITLE: Wallpapers
+
+This repository stores [[https://git-lfs.github.com/][lfs]] pointers to the various wallpapers I use in my dotfiles.
+
+This file also lists all the wallpapers included in this repository alongside links to
+where I got them from. If a source is omitted then the art-work is either from a time
+before I started keeping references or the source I did get it from omitted links to
+the actual creator.
+
+If you are the artists of any of the works here and haven't been properly credited
+please reach out by email or open an issue.
+
+| Image                          | Source            |
+|--------------------------------+-------------------|
+| [[file:2B.png][2B]]                             |                   |
+| [[file:./Answer.png][Answer]]                         | [[https://www.pixiv.net/en/artworks/47514040][Hullabaloo]]        |
+| [[file:./Rin.jpg][Rin]]                            | [[https://www.pixiv.net/en/artworks/80755367][kanniiepan]]        |
+| [[file:./alita.jpg][alita]]                          | [[https://yande.re/post?tags=sakimichan][sakimichan]]        |
+| [[file:./alita2.jpg][alita2]]                         |                   |
+| [[file:./alita3.jpg][alita3]]                         |                   |
+| [[file:./chaos-invoked.jpg][chaos-invoked]]                  | [[https://www.artstation.com/artwork/AqDyx5][Ismail Inceoglu]]   |
+| [[file:./cherryblossom.gif][cherryblossom]] [[file:./cherryblossom.jpg][cherryblossom]]    | [[https://github.com/ComplexPlatform/KDE-dotfiles/blob/27486fa1d333c6be071830a821193730000c82ed/walls/cherryblossom.gif][github]]            |
+| [[file:./circuitry.jpg][circuitry]]                      |                   |
+| [[file:./city2.png][city2]]                          |                   |
+| [[file:./city3.jpg][city3]]                          |                   |
+| [[file:./city.jpg][city]]                           |                   |
+| [[file:./cubes.jpg][cubes]]                          |                   |
+| [[file:./dune-chani.jpg][dune-chani]] [[file:./dune-chani-wide.jpg][dune-chani-wide]]     | [[https://www.mattgriffin.online/dune][Matt Griffin]]      |
+| [[file:./dune.jpg][dune]] [[file:./dune-focus.jpg][dune-focus]] [[file:./dune-wide.jpg][dune-wide]]      | [[https://www.mattgriffin.online/dune][Matt Griffin]]      |
+| [[file:./future-world.jpg][future-world]]                   | [[http://www.mccallstudios.com/the-prologue-and-the-promise/][Robert McCall]]     |
+| [[file:./marilyn-monroe.jpg][marilyn-monroe]]                 |                   |
+| [[file:./metropolis.jpg][metropolis]]                     | [[http://www.mccallstudios.com/earthlight/][Robert McCall]]     |
+| [[file:./prototype.jpg][prototype]]                      |                   |
+| [[file:./rocketman.png][rocketman]]                      |                   |
+| [[file:./saber.jpg][saber]]                          | [[https://danbooru.donmai.us/posts/3853111][pro-p]]             |
+| [[file:./the-great-wave-off-kanagawa.jpg][the-great-wave-off-kanagawa]]    |                   |
+| [[file:toosaka-rin.jpg][toosaka-rin]]                    | [[https://yande.re/post/show/285145][nakahara]]          |
+| [[file:./z2.jpg][z2]]                             | [[https://www.pixiv.net/en/artworks/70780136][-ZZL-]]             |
+| [[file:しーつー.jpg][しーつー]]                       | [[https://www.pixiv.net/en/artworks/73982471][いずもねる]]        |
+| [[file:./どこまでも.jpg][どこまでも]]                     | [[https://www.pixiv.net/en/artworks/81375502][chou shippai-saku]] |
+| [[file:ギアスログ⑬-67.png][ギアスログ⑬ 67]]                 | [[https://www.pixiv.net/en/artworks/59863564][嵐月]]              |
+| [[file:ギアスログ⑰.png][ギアスログ⑰]]                    | [[https://www.pixiv.net/en/users/471355][嵐月]]              |
+| [[file:ギアスログ⑱-11.png][ギアスログ⑱ 11]]                 | [[https://www.pixiv.net/en/artworks/69978197][嵐月]]              |
+| [[file:ギアスログ⑲-03.png][ギアスログ⑲ 03]]                 | [[https://www.pixiv.net/en/artworks/69978230][嵐月]]              |
+| [[file:ギアスログ⑲-04.png][ギアスログ⑲ 04]]                 | [[https://www.pixiv.net/en/artworks/69978230][嵐月]]              |
+| [[file:ギアスログ㉑-13.png][ギアスログ㉑ 13]]                | [[https://www.pixiv.net/en/artworks/78455415][嵐月]]              |
+| [[file:./セイバー.jpg][セイバー]]                       | [[https://www.pixiv.net/en/users/164921][rozer]]             |
+| [[file:./バイク%20x%20FGO%20part%202.jpg][バイク x FGO part 2]]            | [[https://www.pixiv.net/en/artworks/78686098][oneko]]             |
+| [[file:五等分の花嫁.png][五等分の花嫁]]                   | [[https://www.pixiv.net/en/artworks/73875143][いずもねる]]        |
+| [[file:./凛ちゃん.png][凛ちゃん]]                       | [[https://www.pixiv.net/en/artworks/60242046][ももこ@5/30画集]]   |
+| [[file:./衛宮さんちの今日のごはん.png][衛宮さんちの今日のごはん]]       | [[https://www.pixiv.net/en/users/8135909][stolas]]            |
+| [[file:./誕生日おめでとう.jpg][誕生日おめでとう]]               | [[https://www.pixiv.net/en/artworks/79358922][slino]]             |
+| [[file:./鬼.jpg][鬼]]                             | [[https://www.pixiv.net/en/artworks/75241987][￦ANKE]]            |
+| [[file:./鬼滅.jpg][鬼滅]]                           | [[https://www.pixiv.net/en/artworks/80617391][￦ANKE]]            |
+| [[file:tamamo-neko.png][tamamo-neko]]                    | [[https://www.pixiv.net/en/artworks/66176871][むりょたろ]]        |
+| [[file:fallen-angel.jpg][fallen-angel]]                   | [[https://www.pixiv.net/en/artworks/72109603][焦茶]]              |
+| [[file:界面.jpg][界面]]                           | [[https://www.pixiv.net/en/artworks/74932889][焦茶]]              |
+| [[file:BMWZ4.jpg][BMW Z4]]                         | [[https://www.pixiv.net/en/artworks/78539719][Minagi Koh]]        |
+| [[file:her-new-gear.jpg][Her new gear]]                   | [[https://www.pixiv.net/en/artworks/79588872][Minagi Koh]]        |
+| [[file:花宴.png][花宴]]                           | [[https://www.pixiv.net/en/artworks/80863005][藤原]]              |
+| [[file:夏空と君.png][夏空と君]]                       | [[https://www.pixiv.net/en/artworks/82755969][みふる]]            |
+| [[file:VISIONS.jpg][VISIONS]]                        | [[https://www.pixiv.net/en/artworks/84603466][米山舞]]            |
+| [[file:ハロウィンぺこら.png][ハロウィンぺこら]]               | [[https://www.pixiv.net/en/artworks/85443704][あがた]]            |
+| [[file:四季見聞.png][四季見聞]]                       | [[https://www.pixiv.net/en/artworks/86036732][藤原]]              |
+| [[file:兎田ぺこら.jpg][兎田ぺこら]]                     | [[https://www.pixiv.net/en/artworks/86539333][ヨシノリョウ]]      |
+| [[file:だんだん君と同じ言葉が使えるね.jpg][だんだん君と同じ言葉が使えるね]] | [[https://www.pixiv.net/en/artworks/86841451][天川さっこ]]        |
+| [[file:ぺこーら.png][ぺこーら]]                       | [[https://www.pixiv.net/en/artworks/87952278][天川さっこ]]        |
+| [[file:eresh.jpg][FGO#4 エレシュキガル]]           | [[https://www.pixiv.net/en/artworks/87783786][SpiderApple]]       |
+| [[file:Herakles.jpg][Herakles]]                       | [[https://www.behance.net/gallery/28471089/HERAKLES][Antonio Bravo]]     |
